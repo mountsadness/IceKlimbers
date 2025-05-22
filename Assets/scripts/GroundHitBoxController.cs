@@ -22,5 +22,10 @@ public class GroundHitBoxController : MonoBehaviour
     {
         if (Time.time - AttackDuration >= attackStartTime) gameObject.SetActive(false);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        collision.gameObject.SetActive(false);
+    }
 }
 

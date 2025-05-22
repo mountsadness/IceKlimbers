@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|c:\\users\\alumnos\\desktop\\nueva carpeta\\nueva carpeta\\assets\\scripts\\groundhitboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\assets\\scripts\\groundhitboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundhitboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\assets\\scripts\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\assets\\scripts\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\assets\\scripts\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\assets\\scripts\\attackcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|c:\\users\\alumnos\\desktop\\nueva carpeta\\nueva carpeta\\assets\\scripts\\airhitboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35119D1-BECB-B179-793E-72A803E8AE32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\airhitboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,22 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AttackControler.cs",
-              "DocumentMoniker": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\AttackControler.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\AttackControler.cs",
-              "ToolTip": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\AttackControler.cs",
-              "RelativeToolTip": "Assets\\scripts\\AttackControler.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:22:21.071Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -58,27 +36,14 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\GroundHitBoxController.cs",
               "ToolTip": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\GroundHitBoxController.cs",
               "RelativeToolTip": "Assets\\scripts\\GroundHitBoxController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBYAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T20:35:39.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AirHitBoxController.cs",
-              "DocumentMoniker": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\AirHitBoxController.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\AirHitBoxController.cs",
-              "ToolTip": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\AirHitBoxController.cs",
-              "RelativeToolTip": "Assets\\scripts\\AirHitBoxController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:26:19.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PlayerJump.cs",
               "DocumentMoniker": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\PlayerJump.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PlayerJump.cs",
@@ -91,20 +56,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:22:19.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T19:22:19.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InputController.cs",
               "DocumentMoniker": "C:\\Users\\alumnos\\Desktop\\Nueva carpeta\\Nueva carpeta\\Assets\\scripts\\InputController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\InputController.cs",
@@ -112,8 +76,7 @@
               "RelativeToolTip": "Assets\\scripts\\InputController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:22:00.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T19:22:00.298Z"
             }
           ]
         }

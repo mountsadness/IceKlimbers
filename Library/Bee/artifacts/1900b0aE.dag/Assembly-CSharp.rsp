@@ -443,6 +443,7 @@
 "Assets/PlayerControls.cs"
 "Assets/scripts/AirHitBoxController.cs"
 "Assets/scripts/AttackControler.cs"
+"Assets/scripts/Enemy.cs"
 "Assets/scripts/GroundHitBoxController.cs"
 "Assets/scripts/InputController.cs"
 "Assets/scripts/PlayerJump.cs"
